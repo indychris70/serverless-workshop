@@ -1,4 +1,4 @@
-# A Cloud Guru: Serverless Workshop
+# MY A Cloud Guru: Serverless Workshop
 
 In this workshop, we build a completely serverless video sharing web-site, complete with:
 
