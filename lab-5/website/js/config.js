@@ -1,7 +1,7 @@
 var configConstants = {
     auth0: {
-        domain: 'YOUR_AUTH0_DOMAIN_HERE',
-        clientId: 'YOUR_AUTH0_CLIENT_ID_HERE'
+        domain: 'acg-sfb-cjp.auth0.com',
+        clientId: '_tNqBInBu9kcoSpVRyntzlEqdac0bSQt'
     },
-    apiBaseUrl: 'YOUR_API_BASE_URL_HERE_NO_TRAILING_SLASH'
+    apiBaseUrl: "https://0f6d71y248.execute-api.us-east-1.amazonaws.com/dev"
 };

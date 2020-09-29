@@ -62,13 +62,14 @@ var videoController = {
     connectToFirebase: function () {
         var that = this;
 
-        /* PASTE CONFIG HERE */
-        // var config = {
-        //   apiKey: "",
-        //   authDomain: "",
-        //   databaseURL: "",
-        //   storageBucket: "",
-        // };
+        var config = {
+            apiKey: "AIzaSyDC56FFrtE75CR-jrawPLHy2KMreqofmVo",
+            authDomain: "acg-sfb-284a0.firebaseapp.com",
+            databaseURL: "https://acg-sfb-284a0.firebaseio.com",
+            projectId: "acg-sfb-284a0",
+            storageBucket: "acg-sfb-284a0.appspot.com",
+            messagingSenderId: "396817313480"
+          };
 
         firebase.initializeApp(config);
 
